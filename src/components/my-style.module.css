@@ -1,0 +1,33 @@
+/* custom.css */
+body {
+  color: "white";
+  background: "red";
+  padding: "10px";
+  font-family: "Sans-Serif";
+  text-align:center;
+  font-size:30px;
+}
+h1 {
+    color: #343a40;
+  }
+  
+  .list-group-item {
+    border: none;
+    border-bottom: 1px solid #dee2e6;
+  }
+  li{
+    list-style:none;
+  }
+  
+  input {
+    height: 45px;
+  }
+  
+  button {
+    font-size: 14px;
+  }
+  
+  .container {
+    max-width: 600px;
+  }
+  
